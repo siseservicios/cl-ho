@@ -19,12 +19,12 @@
 ##############################################################################
 
 {
-    'name': 'test13',
-    'version': '13.0.0.0.0',
+    'name': 'ho',
+    'version': '13.0.1.0.0',
     'category': 'Tools',
-    'summary': "Test for v13 CE",
+    'summary': "Customizacion para Herramientas del oeste",
     'author': "jeo Software",
-    'website': 'http://github.com/jobiols/cl-test',
+    'website': 'http://github.com/jobiols/cl-ho',
     'license': 'AGPL-3',
     'depends': [
         'standard_depends_ce'
@@ -40,7 +40,7 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:jobiols/cl-test.git',
+        'git@github.com:jobiols/cl-ho.git',
         'git@github.com:jobiols/odoo-jeo-ce.git',
         'git@github.com:jobiols/odoo-private-addons.git',
 
@@ -55,13 +55,6 @@
         'https://github.com/ingadhoc/argentina-sale',
         'https://github.com/ingadhoc/account-payment',
         'https://github.com/ingadhoc/stock',
-
-        # Pruebas del test
-        'git@github.com:jobiols/odoo-uml.git',
-        'git@github.com:jobiols/odoo-etl.git',
-        'git@github.com:oca/project.git',
-        'https://github.com/ingadhoc/miscellaneous.git',
-
     ],
 
     # list of images to use in the form 'name image-url'
