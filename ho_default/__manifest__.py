@@ -40,9 +40,8 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:jobiols/cl-ho.git',
-        'git@github.com:jobiols/odoo-jeo-ce.git',
-        'git@github.com:jobiols/odoo-private-addons.git',
+        'https://github.com/jobiols/cl-ho.git',
+        'https://github.com/odoo-jeo-ce.git',
 
         # Adhoc para localizacion
         'https://github.com/ingadhoc/odoo-argentina.git',
