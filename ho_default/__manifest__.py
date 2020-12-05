@@ -54,6 +54,24 @@
         'https://github.com/ingadhoc/argentina-sale',
         'https://github.com/ingadhoc/account-payment',
         'https://github.com/ingadhoc/stock',
+    
+        # oca para localizacion
+        'https://github.com/oca/web',        
+
+        # otros repositorios adicionales ADHOC
+        ###########################################################
+        'https://github.com/ingadhoc/website',
+        'https://github.com/ingadhoc/partner',
+        'https://github.com/ingadhoc/account-invoicing',
+
+        # otros repositorios adicionales OCA
+        ###########################################################
+        'https://github.com/oca/partner-contact',
+        'https://github.com/oca/sale-workflow',
+        'https://github.com/oca/server-ux',
+        'https://github.com/oca/contract',
+        'https://github.com/oca/social',
+        'https://github.com/oca/stock-logistics-workflow.git',        
     ],
 
     # list of images to use in the form 'name image-url'
