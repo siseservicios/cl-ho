@@ -41,7 +41,7 @@
 
     'git-repos': [
         'https://github.com/jobiols/cl-ho.git',
-        'https://github.com/odoo-jeo-ce.git',
+        'https://github.com/jobiols/odoo-jeo-ce.git',
 
         # Adhoc para localizacion
         'https://github.com/ingadhoc/odoo-argentina.git',
