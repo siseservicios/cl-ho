@@ -99,6 +99,10 @@
         # Odoomates
         # ==========================================================
         'https://github.com/odoomates/odooapps odoomates-odooapps',
+		
+		# Moldeo
+        # ==========================================================
+		'https://github.com/ctmil/payment_mercadopago',
 
         # Gabriela Rivero
         # ==========================================================
