@@ -27,7 +27,23 @@
     'website': 'http://github.com/jobiols/cl-ho',
     'license': 'AGPL-3',
     'depends': [
-        'standard_depends_ce'
+        'standard_depends_ce',
+		
+		'website',
+		'website_crm',
+		'website_crm_sms',
+		'website_sms',
+		'website_sale',
+		'website_form',
+		'website_links',
+		'website_mail',
+		# faltan
+		'website_sale_ux',
+		#faltan
+		'website_blog',
+			
+		'stock',
+		'crm',
      ],
     'installable': True,
 
@@ -43,7 +59,12 @@
         'https://github.com/jobiols/cl-ho.git',
         'https://github.com/jobiols/odoo-jeo-ce.git',
 
+		# Repositorio privado del tema utilizado por José Romero
+        # ==========================================================
+		'https://github.com/sebatista/HO_teme_laze.git theme_laze',
+
         # Adhoc para localizacion
+        # ==========================================================
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
         'https://github.com/ingadhoc/account-financial-tools.git',
@@ -55,23 +76,33 @@
         'https://github.com/ingadhoc/account-payment',
         'https://github.com/ingadhoc/stock',
     
-        # oca para localizacion
+        # OCA para localizacion
+        # ==========================================================
         'https://github.com/oca/web',        
 
-        # otros repositorios adicionales ADHOC
-        ###########################################################
+        # ADHOC Otros repositorios adicionales
+        # ==========================================================
         'https://github.com/ingadhoc/website',
         'https://github.com/ingadhoc/partner',
         'https://github.com/ingadhoc/account-invoicing',
 
-        # otros repositorios adicionales OCA
-        ###########################################################
+        # OCA Otros repositorios adicionales
+        # ==========================================================
         'https://github.com/oca/partner-contact',
         'https://github.com/oca/sale-workflow',
         'https://github.com/oca/server-ux',
         'https://github.com/oca/contract',
         'https://github.com/oca/social',
-        'https://github.com/oca/stock-logistics-workflow.git',        
+        'https://github.com/oca/stock-logistics-workflow.git',
+		'https://github.com/OCA/server-tools',
+		
+        # Odoomates
+        # ==========================================================
+        'https://github.com/odoomates/odooapps odoomates-odooapps',
+
+        # Gabriela Rivero
+        # ==========================================================
+        'https://github.com/regaby/odoo-custom regaby-odoo-custom',
     ],
 
     # list of images to use in the form 'name image-url'
