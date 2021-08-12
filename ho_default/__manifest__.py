@@ -63,49 +63,39 @@
         # ==========================================================
 		'https://github.com/sebatista/HO_teme_laze.git theme_laze',
 
-        # Adhoc para localizacion
-        # ==========================================================
-        'https://github.com/ingadhoc/odoo-argentina.git',
-        'https://github.com/ingadhoc/odoo-argentina-ce.git',
-        'https://github.com/ingadhoc/account-financial-tools.git',
-        'https://github.com/ingadhoc/aeroo_reports.git',
-        'https://github.com/ingadhoc/miscellaneous',
-        'https://github.com/ingadhoc/sale',
-        'https://github.com/ingadhoc/product',
-        'https://github.com/ingadhoc/argentina-sale',
-        'https://github.com/ingadhoc/account-payment',
-        'https://github.com/ingadhoc/stock',
+        # Ing ADHOC 		# ===========================================================================
+        'https://github.com/ingadhoc/odoo-argentina adhoc-odoo-argentina',
+        'https://github.com/ingadhoc/odoo-argentina-ce adhoc-odoo-argentina-ce',
+        'https://github.com/ingadhoc/account-financial-tools adhoc-account-financial-tools',
+        'https://github.com/ingadhoc/aeroo_reports adhoc-aeroo_reports',
+        'https://github.com/ingadhoc/miscellaneous adhoc-miscellaneous',
+        'https://github.com/ingadhoc/sale adhoc-sale',
+        'https://github.com/ingadhoc/product adhoc-product',
+        'https://github.com/ingadhoc/argentina-sale adhoc-argentina-sale',
+        'https://github.com/ingadhoc/account-payment adhoc-account-payment',
+        'https://github.com/ingadhoc/stock adhoc-stock',
+        'https://github.com/ingadhoc/website adhoc-website',
+        'https://github.com/ingadhoc/partner adhoc-partner',
+        'https://github.com/ingadhoc/account-invoicing adhoc-account-invoicing',
     
-        # OCA para localizacion
-        # ==========================================================
-        'https://github.com/oca/web',        
-
-        # ADHOC Otros repositorios adicionales
-        # ==========================================================
-        'https://github.com/ingadhoc/website',
-        'https://github.com/ingadhoc/partner',
-        'https://github.com/ingadhoc/account-invoicing',
-
-        # OCA Otros repositorios adicionales
-        # ==========================================================
-        'https://github.com/oca/partner-contact',
-        'https://github.com/oca/sale-workflow',
-        'https://github.com/oca/server-ux',
-        'https://github.com/oca/contract',
-        'https://github.com/oca/social',
-        'https://github.com/oca/stock-logistics-workflow.git',
-		'https://github.com/OCA/server-tools',
+        # OCA 			# ===========================================================================
+        'https://github.com/oca/web oca-web',
+        'https://github.com/oca/partner-contact oca-partner-contact',
+        'https://github.com/oca/sale-workflow oca-sale-workflow',
+        'https://github.com/oca/server-ux oca-server-ux',
+        'https://github.com/oca/contract oca-contract',
+        'https://github.com/oca/social oca-social',
+        'https://github.com/oca/stock-logistics-workflow oca-stock-logistics-workflow',
+		'https://github.com/oca/server-tools oca-server-tools',
+		'https://github.com/OCA/e-commerce oca-e-commerce',
 		
-        # Odoomates
-        # ==========================================================
-        'https://github.com/odoomates/odooapps odoomates-odooapps',
+        # Odoomates 		# ===========================================================================
+        'https://github.com/odoomates/odooapps om-odooapps',
 		
-		# Moldeo
-        # ==========================================================
-		'https://github.com/ctmil/payment_mercadopago',
+		# Moldeo 			# ===========================================================================
+		'https://github.com/ctmil/payment_mercadopago ctmil-payment_mercadopago',
 
-        # Gabriela Rivero
-        # ==========================================================
+        # Gabriela Rivero 	# ===========================================================================
         'https://github.com/regaby/odoo-custom regaby-odoo-custom',
     ],
 
