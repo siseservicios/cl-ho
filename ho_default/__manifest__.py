@@ -27,8 +27,22 @@
     'website': 'http://github.com/jobiols/cl-ho',
     'license': 'AGPL-3',
     'depends': [
+	
         'standard_depends_ce',
 		
+		# Account - Contabilidad
+		'account',
+		'account_ux',
+		'account_withholding',
+		'account_debt_report',
+		'account_check',
+		'account_statement_aeroo_report',
+		
+		# Localization Arg - Localización argentina
+		'l10n_ar_account_withholding',
+		
+		
+		# 
 		'website',
 		'website_crm',
 		'website_crm_sms',
