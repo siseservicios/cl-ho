@@ -107,7 +107,7 @@
         'https://github.com/odoomates/odooapps om-odooapps',
 		
 		# Moldeo 			# ===========================================================================
-		'https://github.com/ctmil/payment_mercadopago ctmil-payment_mercadopago/payment_mercadopago',
+		'https://github.com/ctmil/payment_mercadopago ctmil-payment_mercadopago',
 
         # Gabriela Rivero 	# ===========================================================================
         'https://github.com/regaby/odoo-custom regaby-odoo-custom',
