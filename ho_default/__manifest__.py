@@ -52,6 +52,7 @@
 		'website_links',
 		'website_mail',
 		# faltan
+		'website_sale_product_attachment',
 		'website_sale_ux',
 		#faltan
 		'website_blog',
