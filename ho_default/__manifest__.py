@@ -80,7 +80,7 @@
 
 		# Repositorio privado del tema utilizado por José Romero
         # ==========================================================
-		'https://github.com/sebatista/HO_teme_laze.git theme_laze',
+	        'git@github.com:sebatista/HO_teme_laze.git theme_laze',
 
         # Ing ADHOC 		# ===========================================================================
         'https://github.com/ingadhoc/odoo-argentina adhoc-odoo-argentina',
