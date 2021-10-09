@@ -24,7 +24,7 @@
     'category': 'Tools',
     'summary': "Customizacion para Herramientas del oeste",
     'author': "jeo Software",
-    'website': 'http://github.com/jobiols/cl-ho',
+    'website': 'http://github.com/sebatista/cl-ho',
     'license': 'AGPL-3',
     'depends': [
 	
@@ -70,8 +70,12 @@
     'port': '8069',
 
     'git-repos': [
-        'https://github.com/jobiols/cl-ho.git',
-        'https://github.com/jobiols/odoo-jeo-ce.git',
+        'https://github.com/sebatista/cl-ho.git',
+		
+		# JEO
+        'https://github.com/jobiols/odoo-jeo-ce jeo-odoo-jeo-ce',
+        'https://github.com/jobiols/odoo-private-addons jeo-odoo-private-addons',
+		'https://github.com/jobiols/odoo-addons jeo-odoo-addons',
 
 		# Repositorio privado del tema utilizado por José Romero
         # ==========================================================
