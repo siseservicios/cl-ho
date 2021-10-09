@@ -52,6 +52,7 @@
 		'website_links',
 		'website_mail',
 		# faltan
+		'website_sale_product_attachment',
 		'website_sale_ux',
 		#faltan
 		'website_blog',
@@ -111,7 +112,7 @@
         'https://github.com/odoomates/odooapps om-odooapps',
 		
 		# Moldeo 			# ===========================================================================
-		'https://github.com/ctmil/payment_mercadopago ctmil-payment_mercadopago/',
+		'https://github.com/ctmil/payment_mercadopago ctmil/payment_mercadopago',
 
         # Gabriela Rivero 	# ===========================================================================
         'https://github.com/regaby/odoo-custom regaby-odoo-custom',
