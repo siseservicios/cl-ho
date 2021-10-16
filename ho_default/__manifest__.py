@@ -107,6 +107,7 @@
         'https://github.com/oca/stock-logistics-workflow oca-stock-logistics-workflow',
 		'https://github.com/oca/server-tools oca-server-tools',
 		'https://github.com/OCA/e-commerce oca-e-commerce',
+		'https://github.com/OCA/website oca-website',
 		
         # Odoomates 		# ===========================================================================
         'https://github.com/odoomates/odooapps om-odooapps',
