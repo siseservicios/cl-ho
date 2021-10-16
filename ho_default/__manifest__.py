@@ -124,6 +124,6 @@
         'odoo jobiols/odoo-jeo:13.0',
         'postgres postgres:10.1-alpine',
         'nginx nginx',
-		'dbtools jobiols/dbtools:1.1.0',
+		'dbtools jobiols/dbtools',
     ]
 }
