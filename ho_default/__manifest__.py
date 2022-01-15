@@ -71,7 +71,7 @@
     'port': '8069',
 
     'git-repos': [
-        'https://github.com/sebatista/cl-ho.git',
+        'https://github.com/siseservicios/cl-ho.git',
 		
 		# JEO
         'https://github.com/jobiols/odoo-jeo-ce jeo-odoo-jeo-ce',
