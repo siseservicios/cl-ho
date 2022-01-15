@@ -27,9 +27,9 @@
     'website': 'http://github.com/sebatista/cl-ho',
     'license': 'AGPL-3',
     'depends': [
-	
+
         'standard_depends_ce',
-		
+
 		# Account - Contabilidad
 		'account',
 		'account_ux',
@@ -37,12 +37,12 @@
 		'account_debt_report',
 		'account_check',
 		'account_statement_aeroo_report',
-		
+
 		# Localization Arg - Localización argentina
 		'l10n_ar_account_withholding',
-		
-		
-		# 
+		'website_sale_order_type_ux',
+
+		#
 		'website',
 		'website_crm',
 		'website_crm_sms',
@@ -56,7 +56,7 @@
 		'website_sale_ux',
 		#faltan
 		'website_blog',
-			
+
 		'stock',
 		'crm',
      ],
@@ -72,7 +72,7 @@
 
     'git-repos': [
         'https://github.com/siseservicios/cl-ho.git',
-		
+
 		# JEO
         'https://github.com/jobiols/odoo-jeo-ce jeo-odoo-jeo-ce',
         'https://github.com/jobiols/odoo-private-addons jeo-odoo-private-addons',
@@ -96,7 +96,7 @@
         'https://github.com/ingadhoc/website adhoc-website',
         'https://github.com/ingadhoc/partner adhoc-partner',
         'https://github.com/ingadhoc/account-invoicing adhoc-account-invoicing',
-    
+
         # OCA 			# ===========================================================================
         'https://github.com/oca/web oca-web',
         'https://github.com/oca/partner-contact oca-partner-contact',
@@ -108,10 +108,10 @@
 		'https://github.com/oca/server-tools oca-server-tools',
 		'https://github.com/OCA/e-commerce oca-e-commerce',
 		'https://github.com/OCA/website oca-website',
-		
+
         # Odoomates 		# ===========================================================================
         'https://github.com/odoomates/odooapps om-odooapps',
-		
+
 		# Moldeo 			# ===========================================================================
 		'https://github.com/ctmil/payment_mercadopago ctmil/payment_mercadopago',
 
